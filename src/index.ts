@@ -1,0 +1,1 @@
+export const cenas = (cena: string) => `cenas: ${cena}`;
